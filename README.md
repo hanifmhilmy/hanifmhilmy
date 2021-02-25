@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on https://github.com/hanifmhilmy/proj-dompet-api
+- 🔭 I’m currently working on https://github.com/hanifmhilmy/proj-dompet-api  (stalled)
 - 🌱 I’m currently learning apps architecture with also learning to make better known redis, go.
 - 📫 How to reach me: you can always contact me via [email](mailto:hanifmhilmy@outlook.com), or [linkedin](https://www.linkedin.com/in/hanifmhilmy/)
