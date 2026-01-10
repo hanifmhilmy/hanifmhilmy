@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on https://github.com/hanifmhilmy/proj-dompet-api  (stalled)
-- 🌱 I’m currently learning the system design, and several data structure.
+- 🌱 I’m currently find a joy in learning Java, Ruby, and Rust. 
 - 📫 How to reach me: you can always contact me via [email](mailto:hanifmhilmy@outlook.com), or [linkedin](https://www.linkedin.com/in/hanifmhilmy/)
